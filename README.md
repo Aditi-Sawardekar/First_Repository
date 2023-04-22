@@ -1,6 +1,5 @@
-# First_Repository
-This is my first project repository on Github.
-Its a curriculum vitae using Html and CSS
+# Responsive CV using HTML and CSS
+This project contains responsive CV using HTML and CSS.
 
 # Install
 git clone git@github.com:Aditi-Sawardekar/First_Repository.git            
